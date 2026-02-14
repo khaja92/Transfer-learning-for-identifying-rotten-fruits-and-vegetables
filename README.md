@@ -74,5 +74,5 @@ If trained properly:
 ✔ TensorFlow / Keras / PyTorch
 ✔ OpenCV (image processing)
 ✔ Pretrained models: MobileNet, ResNet, Inception
-📌 Summary
+**Summary**
 Smart Sorting with Transfer Learning is an efficient, accurate way to detect rotten fruits and vegetables in images by using existing learned models and adapting them to this specific task. It improves sorting quality, speed, and reliability.
